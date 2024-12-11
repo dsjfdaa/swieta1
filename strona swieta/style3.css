@@ -1,0 +1,23 @@
+/* style3.css */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+a:hover {
+    color: #ff5722;
+    text-decoration: underline;
+}
+
+header nav ul li a:hover {
+    color: #ffeb3b;
+}
